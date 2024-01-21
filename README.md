@@ -1,2 +1,2 @@
 # Programming-Tools
-Tools &amp; Scripts to aid in making goood code
+Tools &amp; Scripts to aid in making goood code and being raaaaaaaad
